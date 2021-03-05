@@ -1,0 +1,9 @@
+C:\Users\paulr\source\repos\FinParser\bin\Debug\netcoreapp3.1\FinParser.deps.json
+C:\Users\paulr\source\repos\FinParser\bin\Debug\netcoreapp3.1\FinParser.dll
+C:\Users\paulr\source\repos\FinParser\bin\Debug\netcoreapp3.1\FinParser.pdb
+C:\Users\paulr\source\repos\FinParser\obj\Debug\netcoreapp3.1\FinParser.csprojAssemblyReference.cache
+C:\Users\paulr\source\repos\FinParser\obj\Debug\netcoreapp3.1\FinParser.AssemblyInfoInputs.cache
+C:\Users\paulr\source\repos\FinParser\obj\Debug\netcoreapp3.1\FinParser.AssemblyInfo.cs
+C:\Users\paulr\source\repos\FinParser\obj\Debug\netcoreapp3.1\FinParser.csproj.CoreCompileInputs.cache
+C:\Users\paulr\source\repos\FinParser\obj\Debug\netcoreapp3.1\FinParser.dll
+C:\Users\paulr\source\repos\FinParser\obj\Debug\netcoreapp3.1\FinParser.pdb

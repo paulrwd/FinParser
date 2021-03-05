@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RIRIqijSYAhRRNLue2uv8y4Z+YkEr0JSMbSmG4ovj24q3g9pu+9kOJh5QsS3Or2nAXfNA9lSKbj78MzUUaW1VA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\paulr\\source\\repos\\FinParser\\FinParser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\paulr\\.nuget\\packages\\htmlagilitypack\\1.11.31\\htmlagilitypack.1.11.31.nupkg.sha512"
+  ],
+  "logs": []
+}
