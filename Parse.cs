@@ -11,6 +11,7 @@ namespace FinParser
     {
         public static decimal NowPrice(string Ticker, ref System.Net.WebClient wc, ref HtmlDocument html)
         {
+            //
             decimal output_price = 0;
             html.LoadHtml(wc.DownloadString("https://finance.yahoo.com/quote/" + Ticker));
             HtmlNodeCollection nodes = html.DocumentNode.SelectNodes("//div");
